@@ -1,0 +1,7 @@
+{
+  "name": "@salomao/baal",
+  "version": "1.0.0",
+  "description": "Package that contains all styles needed",
+  "main": "index.js",
+  "license": "MIT"
+}
